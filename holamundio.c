@@ -2,7 +2,7 @@
 
 int main() {
     
-    printf("greast!\n");
+    printf("frestara!\n");
 
     return 0; // Indica que el programa terminó con éxito
 }
