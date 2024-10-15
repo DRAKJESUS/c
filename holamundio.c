@@ -2,7 +2,7 @@
 
 int main() {
     
-    printf("frestara!\n");
+    printf("core!\n");
 
     return 0; // Indica que el programa terminó con éxito
 }
