@@ -2,7 +2,7 @@
 
 int main() {
     
-    printf("tuuuuu!\n");
+    printf("ellll!\n");
 
     return 0; // Indica que el programa terminó con éxito
 }
