@@ -2,7 +2,7 @@
 
 int main() {
     
-    printf("floote!\n");
+    printf("init!\n");
 
     return 0; // Indica que el programa terminó con éxito
 }
